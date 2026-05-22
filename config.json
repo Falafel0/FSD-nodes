@@ -1,0 +1,9 @@
+{
+  "logging": {
+    "level": "INFO",
+    "console_output": false
+  },
+  "ui": {
+    "show_toast_notifications": true
+  }
+}

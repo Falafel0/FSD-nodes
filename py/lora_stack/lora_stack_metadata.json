@@ -1,0 +1,1073 @@
+{
+  "anima\\Retro_Neon_Cyberpunk_Anima-step00001950.safetensors": {
+    "hash": "024961381d0eb4879405c49eb2a53fa4cc5834b991c6ff84a809ef34955deac1",
+    "trigger_words": "retro_cyberpunk, retro, retro artstyle",
+    "download_url": "https://civitai.com/models/1517871",
+    "base_model": "Anima"
+  },
+  "anima\\pixel-AnimaP_V30-V1-CAME.safetensors": {
+    "hash": "d6bb58d3c144dded44a74b8d65f0958b74eb81075ef0ad5f7145ae3ed8238cdc",
+    "trigger_words": "pix_merge, pixel art,",
+    "download_url": "https://civitai.com/models/1648877",
+    "base_model": "Anima"
+  },
+  "anima\\Oekaki_AnimaPreview2_byKonan.safetensors": {
+    "hash": "b661b57f51db6e8ff8468b2ad1f3dd727d6c203c9596abb5de49007a18f645cf",
+    "download_url": "https://civitai.com/models/2485902",
+    "base_model": "Anima"
+  },
+  "anima\\oatmealdood_AnimaP_v03.safetensors": {
+    "hash": "c3b4eb42109e7199d456689ae7ca66344dfd3b9de5d7fd90a006701991b4cdc9",
+    "trigger_words": "@04tm34ld00d,",
+    "download_url": "https://civitai.com/models/2420637",
+    "base_model": "Anima"
+  },
+  "anima\\hye_xaanima.safetensors": {
+    "hash": "d7f70c882f24e448da53c8ef08c8e757dd67f5e596e8375283ecf75df86c6359",
+    "trigger_words": "@hyexastyle",
+    "download_url": "https://civitai.com/models/2425690",
+    "base_model": "Anima"
+  },
+  "anima\\lenovo_anima.safetensors": {
+    "hash": "bcb7425cf081027339c6216619437c133521f4f941e40e4a96681f719dacffe6",
+    "download_url": "https://civitai.com/models/1662740",
+    "base_model": "Anima"
+  },
+  "anima\\LeraPi_AnimaPreview3_byKonan.safetensors": {
+    "hash": "51802d0ca5185bb973ee54393cfbacbb80e0ed481605adddd6c21d50f2d5fb50",
+    "download_url": "https://civitai.com/models/2571100",
+    "base_model": "Anima"
+  },
+  "anima\\LowPolyPSX_AnimaPreview2_byKonan.safetensors": {
+    "hash": "3f0fc4a628262a85728426e0f0d14c882c2a36e46d2798b555fb95ae5f00dd03",
+    "trigger_words": "lowpoly, ps1, psx, low poly, 3d",
+    "download_url": "https://civitai.com/models/2485743",
+    "base_model": "Anima"
+  },
+  "anima\\merrytailanima_preview3_1.safetensors": {
+    "hash": "3a1c7a548233b4b52183c7341930b8a90ed8052c618f7df52031e550f7a24580",
+    "trigger_words": "@merrytailstyle",
+    "download_url": "https://civitai.com/models/976750",
+    "base_model": "Anima"
+  },
+  "anima\\hh48288196_ap3.safetensors": {
+    "hash": "2ccb64909eb62675bcaebd39242b12f0af5eed3794808986db6e813c6ffa0ef1",
+    "trigger_words": "@hh48288196",
+    "download_url": "https://civitai.com/models/2416713",
+    "base_model": "Anima"
+  },
+  "anima\\Greedice_AnimaPreview3_byKonan.safetensors": {
+    "hash": "21c5796219142c8a5c82f67e255dc2c5fa91e65fc6870135e8cf6d1e452e41fe",
+    "trigger_words": "@greedice",
+    "download_url": "https://civitai.com/models/2568269",
+    "base_model": "Anima"
+  },
+  "anima\\eroticnansensusanima_preview3_1-step00004000.safetensors": {
+    "hash": "22f9dbc1aea0fb3ffe599c8057230bae7bb9724dff54e2d287f403e24958c486",
+    "trigger_words": "@eroticnansensustyle",
+    "download_url": "https://civitai.com/models/902780",
+    "base_model": "Anima"
+  },
+  "anima\\eonsangstyleanimav1.safetensors": {
+    "hash": "98cd66b3e78d1c033fd6f57ff1db57fc3649801226d80781f07937a3038e1080",
+    "download_url": "https://civitai.com/models/2402415",
+    "base_model": "Anima"
+  },
+  "anima\\ElinSprite_AnimaPreview3_byKonan.safetensors": {
+    "hash": "7fd54e7df7b0f0e0deadef30b9bceea29259a87c5d2dd54d8a6b7c8d693f31ab",
+    "trigger_words": "pixel art, chibi, white background, simple background",
+    "download_url": "https://civitai.com/models/2565918",
+    "base_model": "Anima"
+  },
+  "anima\\90s_anime_melancholy_Anima-step00003300.safetensors": {
+    "hash": "332413ab21a6c2334ebed741ec5428c224ca218a537b4c986e94f37364c04338",
+    "trigger_words": "90s_melancholy, retro,",
+    "download_url": "https://civitai.com/models/1738546",
+    "base_model": "Anima"
+  },
+  "anima\\anima-highres-aesthetic-boost.safetensors": {
+    "hash": "db5b2dcc4e1afa215058b7a85fb9377124c2e9aabd48c25e595af7199207c299",
+    "download_url": "https://civitai.com/models/2540444",
+    "base_model": "Anima"
+  },
+  "anima\\anima-mechabare-nlmix-e46.safetensors": {
+    "hash": "18c9fdca102d96f3fcf343713778a6f552c1baf3ec694d87690bd48098646684",
+    "trigger_words": "mechabare, mecha musume, mechanical parts, robot joints, android, cyborg",
+    "download_url": "https://civitai.com/models/1347564",
+    "base_model": "Anima"
+  },
+  "anima\\anima-painterly-tags-e49.safetensors": {
+    "hash": "2a0ccbf0f1b65356c2fba694fda31db7de1708505ce8b4c92707124c341925b2",
+    "trigger_words": "painterly, brushstroke, impasto, oil painting \\(medium\\), impressionism, chiaroscuro",
+    "download_url": "https://civitai.com/models/1478417",
+    "base_model": "Anima"
+  },
+  "anima\\anima-preview-3-masterpieces-v5.safetensors": {
+    "hash": "fb7e750983224226205adebfd2a92fd6c202a0966c1596d7ed86cfa13c8521b7",
+    "trigger_words": "masterpiece, very aesthetic",
+    "download_url": "https://civitai.com/models/929497",
+    "base_model": "Anima"
+  },
+  "anima\\anima_betabee.safetensors": {
+    "hash": "885429a1426345a87038d7b7d8cf9f6233f9476c97d85b66c085ecde6e565ccd",
+    "download_url": "https://civitai.com/models/2437700",
+    "base_model": "Anima"
+  },
+  "anima\\anima3-photo-background-v3.safetensors": {
+    "hash": "ded6a43be005300423b43728c616d340ecbf527c25d2c4d29b0c77d1b6a067d0",
+    "trigger_words": "photo background, real world location",
+    "download_url": "https://civitai.com/models/1252497",
+    "base_model": "Anima"
+  },
+  "anima\\anima3-light-concepts-v3.safetensors": {
+    "hash": "c2644c6aff5aa506a81de7d7602468526862405309bb08ca4ebe91bda855d0e1",
+    "download_url": "https://civitai.com/models/2459979",
+    "base_model": "Anima"
+  },
+  "anima\\anima-turbo-lora-v0.1.safetensors": {
+    "hash": "68ed0aec6ff4ebc3add1180e191797adb5aa6b69dd8b0fc8aa9e680145f65aac",
+    "download_url": "https://civitai.com/models/2560840",
+    "base_model": "Anima"
+  },
+  "anima\\anima_F1ZR0T_0002_purged.safetensors": {
+    "hash": "be7669f83aa3c0ea6ca3377a61101b8992999a0b6576e9cea31306ce0d153969",
+    "trigger_words": "@F1ZR0T",
+    "download_url": "https://civitai.com/models/2587788",
+    "base_model": "Anima"
+  },
+  "anima\\Anima_colorfix_v04.safetensors": {
+    "hash": "1ad743f64fefae7caca7a1ada778a6f5a07f72bb25f84b8ce4ba8119ee9e3cdd",
+    "download_url": "https://civitai.com/models/2435207",
+    "base_model": "Anima"
+  },
+  "anima\\anima_p2_void_zero_v0.1_by_reakaakasky.safetensors": {
+    "hash": "e75d2ca012fe35e5e67aaf2caa0fe51c787de29293dc47a811abe93e23b7b0be",
+    "trigger_words": "art style name: void zero",
+    "download_url": "https://civitai.com/models/2507093",
+    "base_model": "Anima"
+  },
+  "anima\\anima_p3_rdbt_v0.29.b.122.safetensors": {
+    "hash": "89954a6a594fecc5437371686c1f763fad3a62284133c001d4e6345e79937305",
+    "download_url": "https://civitai.com/models/2364703",
+    "base_model": "Anima"
+  },
+  "anima\\anima_PLUV1UMGR4ND1S_0002_purged.safetensors": {
+    "hash": "97f4a72c5dc18ac2222f5959518df02a3b70881d49cb520219305cf7f670081e",
+    "trigger_words": "@PLUV1UMGR4ND1S",
+    "download_url": "https://civitai.com/models/2587787",
+    "base_model": "Anima"
+  },
+  "anima\\dark_fantasy_illustration_anima-step00001150.safetensors": {
+    "hash": "a44380f2877511fc93be7259c19367145f15c0792265c21d1491338bb5cf3c0a",
+    "trigger_words": "dark_fantasy_illustration",
+    "download_url": "https://civitai.com/models/1041229",
+    "base_model": "Anima"
+  },
+  "anima\\dark_fantasy_90s_anime_style_Anima-step00003700.safetensors": {
+    "hash": "608e40e90790de9e39db48325323dc1e1bb0130aa9684839c226a44a2b5b0d70",
+    "trigger_words": "dark_fantasy_style, dark fantasy, retro,",
+    "download_url": "https://civitai.com/models/1108959",
+    "base_model": "Anima"
+  },
+  "Downloads\\Aqqiye-step00004000\\Aqqiye-step00004000.safetensors": {
+    "hash": "f312f41b3f9ee3b721a36cdb66c1359af9fb75238aeb6e1d85dae4d75d13a9ac",
+    "trigger_words": "@aqqiye",
+    "download_url": "https://civitai.com/models/2603801",
+    "base_model": "Anima"
+  },
+  "Downloads\\ariimaw_LoCon-AnimaPreview3-000045\\ariimaw_LoCon-AnimaPreview3-000045.safetensors": {
+    "hash": "b11a521723b3e6135fdfa10be6b6cb442cd02910974ba036282ec1ad661b2c82",
+    "download_url": "https://civitai.com/models/2600403",
+    "base_model": "Anima"
+  },
+  "Downloads\\Balecxi_AnimaPreview3_byKonan\\Balecxi_AnimaPreview3_byKonan.safetensors": {
+    "hash": "73e80a55fdfaa1f2e882751051da19cc28c23637882e1294e44ed0ab5d743c74",
+    "download_url": "https://civitai.com/models/2604215",
+    "base_model": "Anima"
+  },
+  "Downloads\\CharlottexBear-All-Anima\\CharlottexBear-All-Anima.safetensors": {
+    "hash": "7c2ffc36b260abf2c474a9265cfce4a7312f6b17a859d43fa4ce692967d43d89",
+    "trigger_words": "CharlottexBear",
+    "download_url": "https://civitai.com/models/2606322",
+    "base_model": "Anima"
+  },
+  "Downloads\\custom-udon-anima-v1.1\\custom-udon-anima-v1.1.safetensors": {
+    "hash": "26f6aaf8c12a31bcb8486c1fbbe0d0e5d7731940dbd1c9e666e286950abc3d5d",
+    "trigger_words": "@custom udon",
+    "download_url": "https://civitai.com/models/2613471",
+    "base_model": "Anima"
+  },
+  "Downloads\\ewa-step00003450\\ewa-step00003450.safetensors": {
+    "hash": "b45edd87533868db1e6fd61846ed4e941f1472319b11a04000719fca02436b99",
+    "download_url": "https://civitai.com/models/2611438",
+    "base_model": "Anima"
+  },
+  "Downloads\\gerphartanima00008\\gerphartanima00008.safetensors": {
+    "hash": "4ffd0d2581518b2509217656427f475efcd4357e5b88b2481753a317c98d7a78",
+    "trigger_words": "gerphart_style",
+    "download_url": "https://civitai.com/models/2577296",
+    "base_model": "Anima"
+  },
+  "Downloads\\mikimikiwo-step00004000\\mikimikiwo-step00004000.safetensors": {
+    "hash": "01917c87ca9678a87cf42fc5fa83bd37c536c51af37859d6435a0c2af3b103f5",
+    "trigger_words": "@mikimikiwo",
+    "download_url": "https://civitai.com/models/2603885",
+    "base_model": "Anima"
+  },
+  "Downloads\\nakkar_v1_epoch26\\nakkar_v1_epoch26.safetensors": {
+    "hash": "26b4859d8f749eafc8c8ac170ebf0d8e69c538727d2ba4f53391a472274e454f",
+    "trigger_words": "@na1kar",
+    "download_url": "https://civitai.com/models/2605859",
+    "base_model": "Anima"
+  },
+  "Downloads\\YouLookLonely_AnimaPreview3_byKonan\\YouLookLonely_AnimaPreview3_byKonan.safetensors": {
+    "hash": "fb45900e3c1c74c796a25bc855925305ae2a40f257d1ac2fc632ffa53354bc0a",
+    "trigger_words": "portrait, bandaid on nose, blurry background, pink lighting, night, dark, pink theme, blood on face, rain",
+    "download_url": "https://civitai.com/models/2598602",
+    "base_model": "Anima"
+  },
+  "Downloads\\Soleilmtfbwy03_AnimaPreview3_byKonan\\Soleilmtfbwy03_AnimaPreview3_byKonan.safetensors": {
+    "hash": "1159b6f29147fd985279ff9d62b830e2e519349348262b89d3c0652ed815b55c",
+    "download_url": "https://civitai.com/models/2600937",
+    "base_model": "Anima"
+  },
+  "Downloads\\shurehakuso-step00004000\\shurehakuso-step00004000.safetensors": {
+    "hash": "0452737c57e884af3d2c0d9c829cc4f5273f66e936728ed3eaa58f869411e92c",
+    "trigger_words": "@shurehaksu",
+    "download_url": "https://civitai.com/models/2603874",
+    "base_model": "Anima"
+  },
+  "Downloads\\nopanamaman-ferry_LoCon-AnimaPreview3\\nopanamaman-ferry_LoCon-AnimaPreview3.safetensors": {
+    "hash": "ef8fa426f830bf5a38b8601ee4b35bb5d3639a67688ef73ea46375d43671fad4",
+    "download_url": "https://civitai.com/models/2614833",
+    "base_model": "Anima"
+  },
+  "anima\\yzs_anima_v0.3.safetensors": {
+    "hash": "c184757c4a7c70e8c73078ddb8e6e69528f44f722405a89cde5018c2c0716ca0",
+    "trigger_words": "@yzsss",
+    "download_url": "https://civitai.com/models/2423253",
+    "base_model": "Anima"
+  },
+  "Downloads\\ViperSeries_AnimaPreview3_byKonan\\ViperSeries_AnimaPreview3_byKonan.safetensors": {
+    "hash": "9c10bd1693988b83acfa262ff6abcd85e5fda9c4a7a53d7895a89efbbf1be016",
+    "trigger_words": "retro artstyle, oekaki",
+    "download_url": "https://civitai.com/models/2574954",
+    "base_model": "Anima"
+  },
+  "Downloads\\UnicornOverlordSprite_AnimaPreview3_byKonan\\UnicornOverlordSprite_AnimaPreview3_byKonan.safetensors": {
+    "hash": "a1c68187759dac943d0cda190238ba0e21cceed413a34a8de53713ded1936367",
+    "trigger_words": "full body, simple background, white background",
+    "download_url": "https://civitai.com/models/2571092",
+    "base_model": "Anima"
+  },
+  "Downloads\\TelltalesStyle_AnimaPreview2_byKonan\\TelltalesStyle_AnimaPreview2_byKonan.safetensors": {
+    "hash": "5a207aa9f0bd5321ab41e4e1e97fc3e1c669f9d0a4b27a247075342277bf5839",
+    "download_url": "https://civitai.com/models/2519109",
+    "base_model": "Anima"
+  },
+  "Downloads\\TaiyangYu_AnimaPreview3_byKonan\\TaiyangYu_AnimaPreview3_byKonan.safetensors": {
+    "hash": "3a97cf4d2d35847a9bd709444dc150b63911e877249642cd8f1f9c724c5455a9",
+    "download_url": "https://civitai.com/models/2580126",
+    "base_model": "Anima"
+  },
+  "Downloads\\Namako_Takorin_AnimaPreview2_byKonan\\Namako_Takorin_AnimaPreview2_byKonan.safetensors": {
+    "hash": "1bce9759428d88168f95b19b97856f7d59506f7096f036db006c350faa66fdcd",
+    "download_url": "https://civitai.com/models/2497051",
+    "base_model": "Anima"
+  },
+  "Downloads\\Sunnii_AnimaPreview3_byKonan\\Sunnii_AnimaPreview3_byKonan.safetensors": {
+    "hash": "c2ab33fdc5087f2f44982aa7ab63b91f91cc29fac2e170defc4a9637ce9e6d7b",
+    "trigger_words": "Sunnii",
+    "download_url": "https://civitai.com/models/2593895",
+    "base_model": "Anima"
+  },
+  "anima\\zzeeonn_ap3.safetensors": {
+    "hash": "d720b9ded3ea8e445bd8d56465f7bd0b7f2135479a435dc3ae172fe34e5387cf",
+    "trigger_words": "@zzeeonn",
+    "download_url": "https://civitai.com/models/2473506",
+    "base_model": "Anima"
+  },
+  "Downloads\\orenjipiiru_A3P_v1\\orenjipiiru_A3P_v1.safetensors": {
+    "hash": "b745e7bb773059d4d363740b43e86047153ed301087b3ab05bca01a6165ec819",
+    "trigger_words": "@orenjipiiru",
+    "download_url": "https://civitai.com/models/111792",
+    "base_model": "Anima"
+  },
+  "Downloads\\LP8000maoMaou_AnimaPreview2_byKonan\\LP8000maoMaou_AnimaPreview2_byKonan.safetensors": {
+    "hash": "3927f9026d180c1420039306e8a0c5e54e1b0e04c3ada31c23027bf97b208d8f",
+    "trigger_words": "blush stickers",
+    "download_url": "https://civitai.com/models/2570679",
+    "base_model": "Anima"
+  },
+  "Downloads\\maaboanima\\maaboanima.safetensors": {
+    "hash": "ded8b2709ea761a8ef5e922163529fd8b12f5b61bdd87292f4bfbe6cca6ab872",
+    "trigger_words": "@maabo harusame",
+    "download_url": "https://civitai.com/models/2598760",
+    "base_model": "Anima"
+  },
+  "Downloads\\femmesouleanima\\femmesouleanima.safetensors": {
+    "hash": "343c5b92178d2b8b9559df6e55f431133463e7df79da0a70f5bfa2ea557f8cdd",
+    "trigger_words": "femme soule, tail, white gloves, skirt, thighhighs, she has a grey eye with a white cross,",
+    "download_url": "https://civitai.com/models/2587269",
+    "base_model": "Anima"
+  },
+  "Downloads\\45UR4U53R_E12\\45UR4U53R_E12.safetensors": {
+    "hash": "4e4eadc909dc5c00659037adbd9f8d852e880aab4c52e8e77d7cb37a27dd2060",
+    "trigger_words": "@45UR4U53R",
+    "download_url": "https://civitai.com/models/2587768",
+    "base_model": "Anima"
+  },
+  "Downloads\\9Z1C172QCZRX636H4TZN6EXGD0\\9Z1C172QCZRX636H4TZN6EXGD0.safetensors": {
+    "hash": "d984ff5887ea4f0079a71ede82696d855f173516acbfac6ea9187a12c76e6a8a",
+    "trigger_words": "Use these in your positive prompt, unsloppifypositive, pencil outlines, traditional media, anime art, 幽玄, アニメスタイル, flat shading",
+    "download_url": "https://civitai.com/models/2512451",
+    "base_model": "Illustrious"
+  },
+  "Downloads\\animav3-naiga-000017\\animav3-naiga-000017.safetensors": {
+    "hash": "0e582de3ca017972f728246977ce529881217f40b6c925e5c305af58255368d2",
+    "trigger_words": "@naiga",
+    "download_url": "https://civitai.com/models/2592554",
+    "base_model": "Anima"
+  },
+  "Downloads\\AnimeHatchingStyle_AnimaPreview3_byKonan\\AnimeHatchingStyle_AnimaPreview3_byKonan.safetensors": {
+    "hash": "1c03eac4d483189170307bbe462eeca31bacb9520f3c0c44991f4f59ef4f8c00",
+    "trigger_words": "monochrome, hatching \\(texture\\)",
+    "download_url": "https://civitai.com/models/2570430",
+    "base_model": "Anima"
+  },
+  "Downloads\\AnotherPixelStyle_AnimaPreview3_byKonan\\AnotherPixelStyle_AnimaPreview3_byKonan.safetensors": {
+    "hash": "99809bd12ad47f169a3950beb0d5801b68aedcfd6eb6baac0b2b74e720f09500",
+    "trigger_words": "pixel, simple background, white background",
+    "download_url": "https://civitai.com/models/2579986",
+    "base_model": "Anima"
+  },
+  "Downloads\\G0DF2V15252RV34HH1M4MYC5A0\\G0DF2V15252RV34HH1M4MYC5A0.safetensors": {
+    "hash": "d68194031cd122c574185f5f31931bf1ad29192a81cae5424ec2fbdfe0ac7487",
+    "trigger_words": "put these in negative prompt, sloppifynegative, 2.5d, 3d, volumetric lighting, blurry, bloom, high contrast, disney pixar, ai generated, backlit, shaded face",
+    "download_url": "https://civitai.com/models/2512450",
+    "base_model": "Illustrious"
+  },
+  "anima\\aruhshuraanima-000039.safetensors": {
+    "hash": "829a8e517e65be6ba2711e30c10fc3fa3923f4ffa81cb57e53517047a2706fbf",
+    "trigger_words": "@aruhshurastyle",
+    "download_url": "https://civitai.com/models/2437134",
+    "base_model": "Anima"
+  },
+  "anima\\deadpurityv3anima_preview2_1.safetensors": {
+    "hash": "8dffdd584c6454456f6c3a97f0953b9b2788e6c0af5b3dcd0a59036a5a823497",
+    "trigger_words": "@deadpuritystyle",
+    "download_url": "https://civitai.com/models/2505374",
+    "base_model": "Anima"
+  },
+  "anima\\CitizenK_AnimaP_v03.safetensors": {
+    "hash": "baa3ab3ae21521b7f3775913343d69a530c222f8799b558ed74d614c01bd2b28",
+    "trigger_words": "@c1t1z3nk,",
+    "download_url": "https://civitai.com/models/2434313",
+    "base_model": "Anima"
+  },
+  "Downloads\\100centuryap3-000040\\100centuryap3-000040.safetensors": {
+    "hash": "698ec946c723a25e839db2a72c969735eb8ecbb9e877bc9c45d1128e35b12170",
+    "trigger_words": "@100centuryap3",
+    "download_url": "https://civitai.com/models/2628882",
+    "base_model": "Anima"
+  },
+  "Downloads\\768t0n1av1\\768t0n1av1.safetensors": {
+    "hash": "2ff4ecfa8f5fe369bf98b706bd33cd9e77c7db4a72a10438b78cf2e01cfb4be0",
+    "trigger_words": "768t0n1av1",
+    "download_url": "https://civitai.com/models/2628891",
+    "base_model": "Anima"
+  },
+  "Downloads\\748cm_TA_EP4 (1)\\748cm_TA_EP4 (1).safetensors": {
+    "hash": "d7b7e19efe0462a84ab8953ff74d69a67bdf05e7f6a6351453451121afde98e3",
+    "trigger_words": "@748cm_style",
+    "download_url": "https://civitai.com/models/2626310",
+    "base_model": "Anima"
+  },
+  "Downloads\\anima-base-1-blending-v2\\anima-base-1-blending-v2.safetensors": {
+    "hash": "9da775fac9b9c968b92dfa801baee22f321fa81aa9060efad5bee11e4896b220",
+    "trigger_words": "blending",
+    "download_url": "https://civitai.com/models/1162484",
+    "base_model": "Anima"
+  },
+  "Downloads\\animaMSF\\animaMSF.safetensors": {
+    "hash": "a26f52cc308aa6b77d53e1e991e51d7004e49a8588cfb059f8632da8486bd083",
+    "download_url": "https://civitai.com/models/2625400",
+    "base_model": "Anima"
+  },
+  "Downloads\\anima_context_detailer_base10\\anima_context_detailer_base10.safetensors": {
+    "hash": "aaaca6107e97bf98d03482464583a0d89fbf14acec8e01685682f11a02915d22",
+    "download_url": "https://civitai.com/models/2620171",
+    "base_model": "Anima"
+  },
+  "Downloads\\anima-highres-aesthetic-boost\\anima-highres-aesthetic-boost.safetensors": {
+    "hash": "db5b2dcc4e1afa215058b7a85fb9377124c2e9aabd48c25e595af7199207c299",
+    "download_url": "https://civitai.com/models/2540444",
+    "base_model": "Anima"
+  },
+  "Downloads\\anima-preview-3-masterpieces-v5\\anima-preview-3-masterpieces-v5.safetensors": {
+    "hash": "fb7e750983224226205adebfd2a92fd6c202a0966c1596d7ed86cfa13c8521b7",
+    "trigger_words": "masterpiece, very aesthetic",
+    "download_url": "https://civitai.com/models/929497",
+    "base_model": "Anima"
+  },
+  "Downloads\\anima-tsuntsuke-no activation-TE-may16_modified\\anima-tsuntsuke-no activation-TE-may16_modified.safetensors": {
+    "hash": "b841a8faa430d976d7977772063248c201138c76329d096f71908336d2b155e0",
+    "download_url": "https://civitai.com/models/2628902",
+    "base_model": "Anima"
+  },
+  "Downloads\\anima_base_slider_step800\\anima_base_slider_step800.safetensors": {
+    "hash": "4a0dc474d26f9ebbae8bf9315da0ae9488f6428f696e21fe8f9db7f970246c82",
+    "download_url": "https://civitai.com/models/2612570",
+    "base_model": "Anima"
+  },
+  "Downloads\\aniyuap3\\aniyuap3.safetensors": {
+    "hash": "7de57638bf8c6a1756bf806645b27b467bcdb13056fac340ddf6c296fafb0d11",
+    "trigger_words": "@aniyuap3",
+    "download_url": "https://civitai.com/models/2628865",
+    "base_model": "Anima"
+  },
+  "Downloads\\arasoe-anima-v4.0\\arasoe-anima-v4.0.safetensors": {
+    "hash": "43a5d522611b9dc0b43c40af0de139e8a79993746289d634f203aa3a849b415c",
+    "trigger_words": "arasoe",
+    "download_url": "https://civitai.com/models/997265",
+    "base_model": "Anima"
+  },
+  "Downloads\\elf1990sANIMA\\elf1990sANIMA.safetensors": {
+    "hash": "ee5f1fd843bc5c535a52aed98c8b14cc532f6485f6ac8b58b91f088d26e2b131",
+    "trigger_words": "elf1990s, pixel art, elf1990s",
+    "download_url": "https://civitai.com/models/2000692",
+    "base_model": "Anima"
+  },
+  "Downloads\\crosshatch_ep3\\crosshatch_ep3.safetensors": {
+    "hash": "89d0a1051fcb0069ec396c308da4af35852900bd3535717fb13316f533cba8fc",
+    "trigger_words": "@cr00shatch",
+    "download_url": "https://civitai.com/models/2627909",
+    "base_model": "Anima"
+  },
+  "Downloads\\gin00ap3_0\\gin00ap3_0.safetensors": {
+    "hash": "a65372f3e892e5a22b00e8efa5c292f3fdff00713b8d196b45472682902f1fef",
+    "trigger_words": "@gin00style",
+    "download_url": "https://civitai.com/models/2628875",
+    "base_model": "Anima"
+  },
+  "Downloads\\Graviciusav1\\Graviciusav1.safetensors": {
+    "hash": "cf4fbab70daf48aff0b48db622a0d1fdac407b8fe192110c11647ab63c073982",
+    "trigger_words": "@gr4v1c1us,",
+    "download_url": "https://civitai.com/models/2628893",
+    "base_model": "Anima"
+  },
+  "Downloads\\h4sh1rnoto_ab1\\h4sh1rnoto_ab1.safetensors": {
+    "hash": "738d6e51c0b89a226e0fe85169ebcf898bcf5c684cde0466ef30fc01d8f53ea8",
+    "trigger_words": "@h4sh1rnoto",
+    "download_url": "https://civitai.com/models/2476107",
+    "base_model": "Anima"
+  },
+  "Downloads\\Loop_hero_Anima_v01\\Loop_hero_Anima_v01.safetensors": {
+    "hash": "2635e828e649c85be9453cd93c7e531e3ba5cc068f101f3046624f018d9e448d",
+    "trigger_words": "@l0ph1ro, pixel art",
+    "download_url": "https://civitai.com/models/2624522",
+    "base_model": "Anima"
+  },
+  "Downloads\\lighting_base10-000100\\lighting_base10-000100.safetensors": {
+    "hash": "da5107038cb651aeb019e41013fcc6560b1507821268ac9c202fb4fe633e5c52",
+    "download_url": "https://civitai.com/models/2628200",
+    "base_model": "Anima"
+  },
+  "Downloads\\ichika_v1_epoch34\\ichika_v1_epoch34.safetensors": {
+    "hash": "e7961a0397a02a393ec4b16f74f3ad03e64dd8ed9c871331d49c39f51fc71681",
+    "trigger_words": "@1chika",
+    "download_url": "https://civitai.com/models/2627306",
+    "base_model": "Anima"
+  },
+  "Downloads\\lewdamoneap3\\lewdamoneap3.safetensors": {
+    "hash": "0ca8939b3d862741456ec154d7c1d44a617037e39b1cead03a6c97de86017562",
+    "trigger_words": "@ledamoneap3",
+    "download_url": "https://civitai.com/models/2628854",
+    "base_model": "Anima"
+  },
+  "Downloads\\PDTX9VDWTT07SJ21QE6CXFF270\\PDTX9VDWTT07SJ21QE6CXFF270.safetensors": {
+    "hash": "31827c838a963fa29603537322926329c2c7f2e295611a08b3bebef8f827417c",
+    "trigger_words": "szosheel, digital painting, cg, high gloss",
+    "download_url": "https://civitai.com/models/2522799",
+    "base_model": "Illustrious"
+  },
+  "Downloads\\Salvacore_TA_EP4 (1)\\Salvacore_TA_EP4 (1).safetensors": {
+    "hash": "78dfb737baf4fbdba95b2e56a8d1528a81a2befe5058992145a3b4cb9c8a5938",
+    "trigger_words": "@salvacore_style",
+    "download_url": "https://civitai.com/models/2626334",
+    "base_model": "Anima"
+  },
+  "Downloads\\tira27\\tira27.safetensors": {
+    "hash": "93846efb210e5997008629141ac2c613f22ff1a593286377efc29a1cb160bd67",
+    "trigger_words": "@tira27style",
+    "download_url": "https://civitai.com/models/2628867",
+    "base_model": "Anima"
+  },
+  "anima\\byeondha_AnimaP_v01-000030.safetensors": {
+    "hash": "7096ea11448fb4001e272e5967e0004243cc32745272d0257438d772c43afb35",
+    "base_model": "Anima",
+    "trigger_words": "@by30ndh4,",
+    "download_url": "https://civitai.com/models/2574823"
+  },
+  "Downloads\\qwen_Angle.safetensors": {
+    "base_model": "Qwen",
+    "hash": "e0cea9508025a39e41f50da0e7d10fbd9db182d057c745136a42ef8829914c8f",
+    "download_url": "https://civitai.com/models/2099912"
+  },
+  "anima\\Chocopizza_Anima.safetensors": {
+    "base_model": "Anima",
+    "hash": "6cf67515909416fef6f4804e22829e8870bb4e9d19026837ea0602f9342119d7",
+    "trigger_words": "@chocopizza",
+    "download_url": "https://civitai.com/models/582955"
+  },
+  "anima\\Urushihara_Anima_02-000006.safetensors": {
+    "base_model": "Anima",
+    "hash": "ef992fe36872f1fc4e02f4f891dd8a7697fbb8a181913cac92fc865f04b3b83f",
+    "trigger_words": "@Urushihara Satoshi",
+    "download_url": "https://civitai.com/models/2489147"
+  },
+  "anima\\anima3-arknights-endfield-v2.safetensors": {
+    "base_model": "Anima",
+    "hash": "4a250ef7c525a9d03b6897c97c7fc301013dc675def3e25ac32fd8e6fe223e0c",
+    "download_url": "https://civitai.com/models/2425904"
+  },
+  "anima\\blobcg_v1.safetensors": {
+    "base_model": "Anima",
+    "hash": "badec9a5f33070b47e03cb9382845c64371009e0bff0e735e78bb2f2a7abd635",
+    "trigger_words": "@blobcg",
+    "download_url": "https://civitai.com/models/2516899"
+  },
+  "anima\\dark_art_style_Anima-step00002750.safetensors": {
+    "base_model": "Anima",
+    "hash": "4560aeb06ab90efc5414cfb7390d456dec9aacfaf6ff15d32f3eb21714866238",
+    "trigger_words": "dark_art_style",
+    "download_url": "https://civitai.com/models/1380736"
+  },
+  "anima\\eatsleep_style-anima.safetensors": {
+    "base_model": "Anima",
+    "hash": "e21cc4797f0b687466c4c4a668e515aa49bf407e73519b19bc9c2a6d6e79e5a1",
+    "download_url": "https://civitai.com/models/2562318"
+  },
+  "anima\\retro_PC_CG_AN_v1.safetensors": {
+    "base_model": "Anima",
+    "hash": "8a4e5f32c75b0f09b02b4f77b04ec5d922da8cbbdb2f2419de40ce6ce0dd2436",
+    "download_url": "https://civitai.com/models/105369"
+  },
+  "anima\\suuruanima_preview2_1-000105.safetensors": {
+    "base_model": "Anima",
+    "hash": "f3077263b305fd15bc0d247432f5a7f8e45219253cc8735db8a8219d39d91479",
+    "trigger_words": "@suurusstyle2",
+    "download_url": "https://civitai.com/models/2420817"
+  },
+  "anima\\ushikani-kassen_e3.safetensors": {
+    "base_model": "Anima",
+    "hash": "45d9df72b30e104c9372d8c59d5532ea0b852087d822475184abca0a2fcebbe3",
+    "download_url": "https://civitai.com/models/2445743"
+  },
+  "anima\\yunsang anima 3.safetensors": {
+    "base_model": "Anima",
+    "hash": "6885f9ecdb114394ae565f85d6df5aacb0074d6620c1e815a6424f7197adc787",
+    "trigger_words": "@yunstyle",
+    "download_url": "https://civitai.com/models/2569402"
+  },
+  "ill\\sw4mp_g0bb0_ILL.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "191d0fb1da57e0d20c1f61c1c3f0292338cfe24e10e4bfa8df755fe55ce50e16",
+    "trigger_words": "studded bracelet, pattern clothing, tribal clothing, rags, black clothing, cleavage, partially clothed, sleeveless,, full-length portrait, toeless legwear, bandaged foot,, sw4mp_g0bb0_byfl1ck, solo, short stack, mature female, not furry, pointy ears, pointy nose, medium breasts, goblin, teal skin, eyelashes, eyeliner,  green sclera, hair on shoulders, hair over eye, messy hair, black hair, necklace, long hair, stick in hair, mushroom in hair,",
+    "download_url": "https://civitai.com/models/2127748"
+  },
+  "ill\\v4p0re0n_cl0wly_IL_epoch_8.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "67b91268c68140f3c6842a7abf30f6ae41635b946c6704fd56e852b5ec547961",
+    "trigger_words": "v4p0re0n_cl0wly, solo, vaporeon, blue body, long tail, thick tail, tail fin, monotone body, female, (feral),",
+    "download_url": "https://civitai.com/models/2473043"
+  },
+  "Downloads\\@mxdxn-v1-animabase1-ty_lee\\@mxdxn-v1-animabase1-ty_lee.safetensors": {
+    "base_model": "Anima",
+    "hash": "0ff060b57ae1653e85028d341dcb7f6485849c7e3772cd18c60bfa412a9bdfd5",
+    "trigger_words": "@mxdxn",
+    "download_url": "https://civitai.com/models/2634868"
+  },
+  "Downloads\\CTKit-step00002100\\CTKit-step00002100.safetensors": {
+    "base_model": "Anima",
+    "hash": "c74f3cb5c12ac25b425e9eae0d2f5609df566390c96f2a9c29605bef7c5439f9",
+    "trigger_words": "CTKit, furry, fur, brown fur, brown hair, short hair, dark-skinned female, cat girl, cat ears, cat tail, pink eyes, yellow sclera, whiskers, goggles, goggles on head, gauntlets, boots, dress, yellow dress, bodysuit, black bodysuit, bikini, kitbikini",
+    "download_url": "https://civitai.com/models/2637498"
+  },
+  "Downloads\\CookieRunKingdom\\CookieRunKingdom.safetensors": {
+    "base_model": "Anima",
+    "hash": "c3c7dc5d5b6038451199360cd4c96d7a14c82acd7b6dcea6405e4be002fda02d",
+    "trigger_words": "crk_style,  no fingers, chibi, white eyebrows, colored skin,",
+    "download_url": "https://civitai.com/models/1650509"
+  },
+  "Downloads\\IomayaAnima\\IomayaAnima.safetensors": {
+    "base_model": "Anima",
+    "hash": "e8826907d0a3d948d90fce5d3aa85fecea920d856f21672e28578f93dacf2e42",
+    "trigger_words": "Iomaya",
+    "download_url": "https://civitai.com/models/2255704"
+  },
+  "Downloads\\Kawakit_style_AnimaB_v2_32_resume-000017\\Kawakit_style_AnimaB_v2_32_resume-000017.safetensors": {
+    "base_model": "Anima",
+    "hash": "7cddc170b429b932f8119f4671f05e99ab44c536e6bb9ed0285dfa5ea805dfed",
+    "trigger_words": "@k4wakit_style",
+    "download_url": "https://civitai.com/models/2632378"
+  },
+  "Downloads\\MoehimeUnionAnima\\MoehimeUnionAnima.safetensors": {
+    "base_model": "Anima",
+    "hash": "86973daf996636ed69949fa4a3009fc9a8f363e2a58b36f9b16c9f0196a670c8",
+    "trigger_words": "Moehime Union",
+    "download_url": "https://civitai.com/models/2636317"
+  },
+  "Downloads\\Niji Reol v1 EP11\\Niji Reol v1 EP11.safetensors": {
+    "base_model": "Anima",
+    "hash": "c92cf2893093e6fe1e29f67b56aaa5e7377328694867c77456f35dc501189eff",
+    "trigger_words": "@Nijireol",
+    "download_url": "https://civitai.com/models/2384767"
+  },
+  "Downloads\\TawaraHiryuu_ill_v01-000020\\TawaraHiryuu_ill_v01-000020.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "0613f7f6ba801638b0e5b7dd19529b8bd26d95105c1904715f85a5ebb456d9b7",
+    "trigger_words": "@t4w4r4h1ryuu,",
+    "download_url": "https://civitai.com/models/2634592"
+  },
+  "Downloads\\TetsugakuZombie_AnimaB_v01\\TetsugakuZombie_AnimaB_v01.safetensors": {
+    "base_model": "Anima",
+    "hash": "66e683812e469537a8e0510cc0028511d0877549872d5c8f985a8f050e996a1d",
+    "trigger_words": "@t3tsug4kuz0mb13,",
+    "download_url": "https://civitai.com/models/2497629"
+  },
+  "Downloads\\Vector_Cel_1B\\Vector_Cel_1B (1).safetensors": {
+    "base_model": "Anima",
+    "hash": "3e2f4ceb4673f663e39c40823d5bade3ea4a8c52da91f7fbb052bd7a8f309252",
+    "download_url": "https://civitai.com/models/2631707"
+  },
+  "Downloads\\Vector_Cel_1B\\Vector_Cel_1B.safetensors": {
+    "base_model": "Anima",
+    "hash": "3e2f4ceb4673f663e39c40823d5bade3ea4a8c52da91f7fbb052bd7a8f309252",
+    "download_url": "https://civitai.com/models/2631707"
+  },
+  "Downloads\\[Anima][Style]AsanagiFigure-000012\\[Anima][Style]AsanagiFigure-000012.safetensors": {
+    "base_model": "Anima",
+    "hash": "ad56015676b482389ffdf9b1c22d1488bfa1e558b887412f7e7b68672a31b9a1",
+    "trigger_words": "@asanagiFigure,, cum on figure,",
+    "download_url": "https://civitai.com/models/2635788"
+  },
+  "Downloads\\anima_style_dark_souls_artbook_ynead_v1\\anima_style_dark_souls_artbook_ynead_v1.safetensors": {
+    "base_model": "Anima",
+    "hash": "db2cf592b5c0bcd59d2651667311afcdbaf58673d8b1ba643d9cd7deebbf61f9",
+    "trigger_words": "darksoulsstyle,, painterly,",
+    "download_url": "https://civitai.com/models/2637499"
+  },
+  "Downloads\\daroon5_AnimaB_v01\\daroon5_AnimaB_v01.safetensors": {
+    "base_model": "Anima",
+    "hash": "dc32b0299b1dc833f5d38f389386f73d604a009b8bc45e618a9fb41fbbd3192d",
+    "trigger_words": "@d4r00n5,",
+    "download_url": "https://civitai.com/models/2629694"
+  },
+  "Downloads\\deadpurityv2anima_v1_1-step00004000\\deadpurityv2anima_v1_1-step00004000.safetensors": {
+    "base_model": "Anima",
+    "hash": "cd9f157d7a8ceaee9944eeb0dc5f3fdd28e72956a6043e1ea1990edba8fb6723",
+    "trigger_words": "@deadpuritystyle",
+    "download_url": "https://civitai.com/models/2505374"
+  },
+  "Downloads\\glossy skin-000005\\glossy skin-000005.safetensors": {
+    "base_model": "Anima",
+    "hash": "193f1c2374241f27c00878a33842f0f99f6434471b76e65e0f22e6d5f1867474",
+    "download_url": "https://civitai.com/models/2636427"
+  },
+  "Downloads\\glossy\\glossy.safetensors": {
+    "base_model": "Anima",
+    "hash": "922ec3354cd9378189e2a5124e54618ede0b7f653a2a9a027ab73e4ed1278a51",
+    "trigger_words": "@ff1",
+    "download_url": "https://civitai.com/models/2637585"
+  },
+  "Downloads\\hermityy_v1_epoch40\\hermityy_v1_epoch40.safetensors": {
+    "base_model": "",
+    "hash": "eafc3d999910fabc9be67de4f3da6e04454a2cec5eccb5d2f527189cc7db326f"
+  },
+  "Downloads\\kieed_v1_epoch40\\kieed_v1_epoch40.safetensors": {
+    "base_model": "",
+    "hash": "b79a9ec91a6d2c2a10928dbaf6ae804cb6d44d83b959b595d61b69551fac3cf1"
+  },
+  "Downloads\\me1c1er_anima1.0_v0.1\\me1c1er_anima1.0_v0.1.safetensors": {
+    "base_model": "Anima",
+    "hash": "a95c9571dd4eec082408c85a96aeb893135e56a2167e43f2d57172410739f3a8",
+    "trigger_words": "@me1c1er",
+    "download_url": "https://civitai.com/models/2634066"
+  },
+  "Downloads\\nekoya_v1_epoch21\\nekoya_v1_epoch21.safetensors": {
+    "base_model": "Anima",
+    "hash": "a59e3730ecd55298fe41bc77870df145f89bc38fc357878afda266233b2c9573",
+    "trigger_words": "@4x0style",
+    "download_url": "https://civitai.com/models/2637242"
+  },
+  "Downloads\\project_v1_epoch40\\project_v1_epoch40.safetensors": {
+    "base_model": "",
+    "hash": "76eef4233670bc5a24b76e210ce15a2bc39536c557022c429076fca09924640b"
+  },
+  "Downloads\\retro90A-AnimaB_V10-V1-CAME-000020\\retro90A-AnimaB_V10-V1-CAME-000020.safetensors": {
+    "base_model": "Anima",
+    "hash": "31f8f2f69850dd6f8a11fee6991a12ce7b82952d96dbb083b095ca09241fd7f3",
+    "trigger_words": "90retrostyle",
+    "download_url": "https://civitai.com/models/1468386"
+  },
+  "Downloads\\rportxani_anima_v1\\rportxani_anima_v1.safetensors": {
+    "base_model": "Anima",
+    "hash": "f59f329821ba2a315134513138f0ab8a6186866cc37dec672210283a31f90da7",
+    "trigger_words": "rportxani, portrait uv sheet, face animation tiles, retro pixel art,",
+    "download_url": "https://civitai.com/models/2637561"
+  },
+  "Downloads\\supponya_AnimaB_v01-000030\\supponya_AnimaB_v01-000030.safetensors": {
+    "base_model": "Anima",
+    "hash": "5362d7563b0536d32780c79172c794bb7719f5e6362779aade2c8fbbd4677fc9",
+    "trigger_words": "@supp0ny4,",
+    "download_url": "https://civitai.com/models/2637432"
+  },
+  "Downloads\\unity1\\unity1.safetensors": {
+    "base_model": "",
+    "hash": "997576e42273319c2bc1ca00b76a52c7660b277ae8d1ebbbf53e5a0bf71af642"
+  },
+  "Downloads\\yunsang-MIX-anima-v1-000010\\yunsang-MIX-anima-v1-000010.safetensors": {
+    "base_model": "Anima",
+    "hash": "68197f352400e505c45d21ff36e6f92004fb3b12e5380ed368721f87b5744698",
+    "download_url": "https://civitai.com/models/2637229"
+  },
+  "Downloads\\2ho_Anima\\2ho_Anima.safetensors": {
+    "base_model": "Anima",
+    "hash": "43458cbfdfebdbd78823008764508da77b9d394cb8dc68b885eee14e3330acf1",
+    "trigger_words": "2ho Style",
+    "download_url": "https://civitai.com/models/2637241"
+  },
+  "Downloads\\anima-base-1-masterpiece-v51\\anima-base-1-masterpiece-v51.safetensors": {
+    "base_model": "Anima",
+    "hash": "b330b46df1c71e4409d7b60ecf45df4ee26310fa914c398226c7800cc2912936",
+    "trigger_words": "masterpiece, very aesthetic",
+    "download_url": "https://civitai.com/models/929497"
+  },
+  "Downloads\\KitAnima\\KitAnima.safetensors": {
+    "base_model": "anima",
+    "hash": "fa9372b5a6b9b129f871203e3b6afedcbbb50ea79d6edca1ca2cf7f3d08014d3"
+  },
+  "Downloads\\crymachina_style_anima-v11\\crymachina_style_anima-v11.safetensors": {
+    "base_model": "Anima",
+    "hash": "898e02b0d750503374cb4ea18d8f4e74cdcaeab03b78b795a1fe319f7d3dd6eb",
+    "trigger_words": "stylecrymachina",
+    "download_url": "https://civitai.com/models/1699052"
+  },
+  "Downloads\\white_forest_v1\\white_forest_v1.safetensors": {
+    "base_model": "Anima",
+    "hash": "f007ee4b1b22da90d2f04e3fd2e908e307cf82a19fa61834ca432114b514870b",
+    "trigger_words": "astellar, black robe,red pantyhose,black whitch hat,black boots,turtleneck,monocle,shoulder bag,, elzette, white coat,white dress,blue pantyhose,white whitch hat,white boots",
+    "download_url": "https://civitai.com/models/1709864"
+  },
+  "Downloads\\wlop-000015\\wlop-000015.safetensors": {
+    "base_model": "Anima",
+    "hash": "99c39579e9398b1332c9b5f3912e910feb08a9efbcc8970fecc39114bfb118a6",
+    "trigger_words": "wlopstyle",
+    "download_url": "https://civitai.com/models/2637182"
+  },
+  "Downloads\\@naruto05_v2_abv010_ep10_rank32\\@naruto05_v2_abv010_ep10_rank32.safetensors": {
+    "base_model": "",
+    "hash": "efe026b01d0835c70e636f11b8c3f77291d6ffe0f0a27183525582489ad295ef"
+  },
+  "Downloads\\IggymAnima\\IggymAnima.safetensors": {
+    "base_model": "Anima",
+    "hash": "f0b6dfa894fd676f41241509dd991bedac787dad2fb6e9be4d50cdc3cd2782e8",
+    "trigger_words": "Iggym, painterly, realistic, sketch, traditional media, watercolor \\(medium\\)",
+    "download_url": "https://civitai.com/models/2543832"
+  },
+  "Downloads\\toy-3-next-b1-36\\toy-3-next-b1-36.safetensors": {
+    "base_model": "",
+    "hash": "2f882b33f334cf8cc092ae9033c028d6e1398daa20782534d81334ea8c7c9dd7"
+  },
+  "Downloads\\04mix-000019\\04mix-000019.safetensors": {
+    "base_model": "Anima",
+    "hash": "d2e7a536a20b16f45b20021463214dfb52baff48048fad25fda38dbbb0231cdb",
+    "download_url": "https://civitai.com/models/2631032"
+  },
+  "Downloads\\748cm_anima-base1_v1\\748cm_anima-base1_v1.safetensors": {
+    "base_model": "Anima",
+    "hash": "c237c2c1598d92a185ea1cb5da60f51f7ff556291b220e414506473ef6b013d6",
+    "trigger_words": "@748cm",
+    "download_url": "https://civitai.com/models/2630274"
+  },
+  "Downloads\\aesthetic-anima-base\\aesthetic-anima-base.safetensors": {
+    "base_model": "Anima",
+    "hash": "a1f251a1a652b05d708392ad45eeba039cf32acece338dfb89e1a36b65f59292",
+    "download_url": "https://civitai.com/models/2383083"
+  },
+  "Downloads\\anima-base-1-mechabare-v3\\anima-base-1-mechabare-v3.safetensors": {
+    "base_model": "Anima",
+    "hash": "b61933fe908f35f8ab8b2be80c9b745db0e535e3e008d2567a412f10a0f95a9f",
+    "trigger_words": "mechabare, mecha musume, mechanical parts, robot joints, android, cyborg",
+    "download_url": "https://civitai.com/models/1347564"
+  },
+  "Downloads\\anima_kikuko\\anima_kikuko.safetensors": {
+    "base_model": "Anima",
+    "hash": "ca1ef68bce42600b3004be5504445c6abeb63766e27f58c72092ae6e6ca4d2dc",
+    "download_url": "https://civitai.com/models/2460860"
+  },
+  "Downloads\\beatnonbeet_v1_epoch32\\beatnonbeet_v1_epoch32.safetensors": {
+    "base_model": "Anima",
+    "hash": "fc7e4c6f7eb0f62935232d319e175c96ad490b554bb1d0efcccaed2ca7be30fc",
+    "trigger_words": "@beatn0nbeet",
+    "download_url": "https://civitai.com/models/2629995"
+  },
+  "Downloads\\chv1sh1_anima1.0_v0.4-000025\\chv1sh1_anima1.0_v0.4-000025.safetensors": {
+    "base_model": "Anima",
+    "hash": "8114a6cc2ce2f77bc234ec58c620870af77dcbc9f014bebc3027d887be15dc5a",
+    "trigger_words": "@chv1sh1",
+    "download_url": "https://civitai.com/models/2457906"
+  },
+  "Downloads\\iceQbe\\iceQbe.safetensors": {
+    "base_model": "Anima",
+    "hash": "e1a8364ce4ae9e2190631b09e3f4f2f57d6ab9be69bc46bb3e61cc6d8019cb62",
+    "download_url": "https://civitai.com/models/2631563"
+  },
+  "Downloads\\pixel-AnimaB_V10-V1-CAME\\pixel-AnimaB_V10-V1-CAME.safetensors": {
+    "base_model": "Anima",
+    "hash": "6736b6f754a8b50d6e3c867c6f76c63873cda0ba5457ef40b01f4260ffe40d82",
+    "trigger_words": "pixel art, pix_merge",
+    "download_url": "https://civitai.com/models/1648877"
+  },
+  "Downloads\\2ho_Illu\\2ho_Illu.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "00224e61bcde4878bbb9426c12937e9f27c6f54aab3b4419d0da5f1778909cea",
+    "trigger_words": "2ho Style",
+    "download_url": "https://civitai.com/models/2637241"
+  },
+  "Downloads\\4H6EAXF7QC2C8SZ7A9GMHW6680\\4H6EAXF7QC2C8SZ7A9GMHW6680.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "8a44d2a9140267f840e3c3b68c7780bf9dee69cdd06115ed21a60bdf3805aacd",
+    "download_url": "https://civitai.com/models/2631707"
+  },
+  "Downloads\\Aleriia_V__Lerapi_Style-000016\\Aleriia_V__Lerapi_Style-000016.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "2dd870c38b4bf737f77a55376147b9985d147b0499e22950c66b5db8cd8c43ef",
+    "download_url": "https://civitai.com/models/904797"
+  },
+  "Downloads\\DaDisembodiedbodyparts_epoch_3\\DaDisembodiedbodyparts_epoch_3.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "fc0727bf63e6d5647669f8aefc66af8ba52afb12ea19499b4f2e4ea16101c1a9",
+    "trigger_words": "daddmbdjnts-disembodied bodyparts focus,, disembodied head, disembodied hands, disembodied, solo,",
+    "download_url": "https://civitai.com/models/2531772"
+  },
+  "Downloads\\Female_Kurouroshi-000006\\Female_Kurouroshi-000006.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "a8cb149f31bfe7736258d2a27e6383160aace49314e9f12a7ce0442af03d3675",
+    "trigger_words": "fem_kurourushi, 1girl, long black hair, red skin, glowing yellow eyes, extra eyes on forehead, forehead markings, roach antennae, facial markings, stitched face, black flower tattoos, monster girl,, black mini dress, sleeveless dress, pleated skirt, short dress, gothic style, fishnet stockings, black heels, black bodysuit, black leotard, highleg bodysuit, thong back, sleeveless, tight outfit, glossy fabric, red fishnet stockings, fishnet pantyhose, black high heels, stiletto heels, Naked, naked breasts, pussy",
+    "download_url": "https://civitai.com/models/2630708"
+  },
+  "Downloads\\GITS1995_XL Vpred Noob\\GITS1995_XL Vpred Noob.safetensors": {
+    "base_model": "NoobAI",
+    "hash": "32d531f27c08f04702b5934de4b101cfe624102fe9267800499fff97612488ae",
+    "download_url": "https://civitai.com/models/310677"
+  },
+  "Downloads\\Hive_Soldier_Drone-01\\Hive_Soldier_Drone-01.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "78c3e00fcfd3606c621f5019f5c178c9145aaa713d95c1162d16282fb5669a89",
+    "trigger_words": "h1v3r, humanoid, alien,",
+    "download_url": "https://civitai.com/models/2636158"
+  },
+  "Downloads\\IL26_Hakutama_Nurse\\IL26_Hakutama_Nurse.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "527bb8004bd1f23b87ae5be982c034890091dd9f02b79d34e2cf786e314798af",
+    "trigger_words": "hakunur, black hair, long hair, purple eyes, white pupils, mole under eye, huge breasts, nurse cap, nurse, surgical mask, mouth mask, short sleeves, white thighhighs, sweater, shoulder cutout, arm under breasts, black pencil skirt, black thighhighs, earrings, red backless dress, red ribbed sweater dress, virgin killer sweater, sleeveless, turtleneck, bottomless",
+    "download_url": "https://civitai.com/models/2638252"
+  },
+  "Downloads\\Illustrious_Beatrice_Frega\\Illustrious_Beatrice_Frega.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "a99776b5d92489c0e97b3b5fd88fcab8be6be5ed89758f7253fc9ac208ca5d4e",
+    "trigger_words": "tcaabeatrice, blue hair, long hair, parted bangs, grey eyes, white blouse, frilled collar, blue bowtie, black elbow gloves, blue long skirt, bracelet",
+    "download_url": "https://civitai.com/models/2608669"
+  },
+  "Downloads\\RGN9ZJ84GCNG678773B96B3850\\RGN9ZJ84GCNG678773B96B3850.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "81a809c3ca83e2c2121003029ccaaf4bf8fe829cb94fa7630fba89393b7ba341",
+    "download_url": "https://civitai.com/models/2636304"
+  },
+  "Downloads\\TandoharkIllustrious\\TandoharkIllustrious.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "215daa266a9ab8d843ae0e62eb2d896fea57f53f8d6ce3cf2768f77c3716e245",
+    "trigger_words": "Tandohark",
+    "download_url": "https://civitai.com/models/2289916"
+  },
+  "Downloads\\esoteric_ebb_15\\esoteric_ebb_15.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "f8ffb5bb23b20c109f2d2b3cf65cb587e19c4db03108f7efeb886c6bf42d6660",
+    "download_url": "https://civitai.com/models/2482591"
+  },
+  "Downloads\\frist44-Illustrious\\frist44-Illustrious.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "d2fcd9db6f7151725ca8f4cbf9347cfa9856dd49a70ee78d22f2be1ad47426fd",
+    "trigger_words": "frist44",
+    "download_url": "https://civitai.com/models/2638207"
+  },
+  "Downloads\\geass2 illustxl\\geass2 illustxl.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "53d70f6006d66310f68d0ff678851c98e803a865d9f9209de6bc92fa1f1fee7e",
+    "trigger_words": "(geass eyes:1.2), (red glowing eyes:1.2)",
+    "download_url": "https://civitai.com/models/119685"
+  },
+  "Downloads\\illustrious_masterpieces_v3\\illustrious_masterpieces_v3.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "8d9ee4bd2a16c2c72c1e176d247d379c59312585ea3d154e55492ca34d0313fe",
+    "trigger_words": "masterpiece, best quality, very aesthetic",
+    "download_url": "https://civitai.com/models/929497"
+  },
+  "Downloads\\kit_sumnsit_epoch_10\\kit_sumnsit_epoch_10.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "0ed8aff432a76a6c9198ca64c8e393c766899360a19de81c662ee4e708745185",
+    "trigger_words": "kitbodegav2,1girl, anthropomorphic cat girl, brown cat ears, short brown hair,hair bangs, tan fur, whiskers,red eyes, ligth yellow sclera, cat tail,brown tail,, goggles on head, goggles on, yellow sleeveless jumpsuit with white zipper, black undershirt, yellow arm warmers, black legginds,yellow boots, red fingers, a yellow arm cannon with a jewel, Red and yellow swim crop top, yellow swimsuit bottom with red mini skirt, yellow arm warmers,,yellow boots, red fingers",
+    "download_url": "https://civitai.com/models/2627793"
+  },
+  "Downloads\\kota-illustriousXL_v01_V3-CAME\\kota-illustriousXL_v01_V3-CAME.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "98ae4cc1463006350aed3d7be4daed69b06cdf2aba74dd1121c47133566dc23a",
+    "download_url": "https://civitai.com/models/1552941"
+  },
+  "Downloads\\kdevill\\kdevill.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "161d0ece935d56321c7e6411246efdac5498c086b3b31d86391cedd4caa3e9e9",
+    "trigger_words": "kdevill",
+    "download_url": "https://civitai.com/models/2635500"
+  },
+  "Downloads\\1e169e37-a2ea-4b7f-9bb4-a5ba8f820857.TA_trained\\1e169e37-a2ea-4b7f-9bb4-a5ba8f820857.TA_trained.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "6bdce18fb97a3c34ae7d9828e5e16b752544ad11e3cf5c43330a109e0b5a66ba",
+    "download_url": "https://civitai.com/models/2106061"
+  },
+  "Downloads\\90retro-illustriousXL_v01_V1-CAME-000036\\90retro-illustriousXL_v01_V1-CAME-000036.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "e73f429ae944f57543b50ba8bd5dc513a8fca7b72791d14eff71dc6422991468",
+    "trigger_words": "90retrostyle, retro artstyle,",
+    "download_url": "https://civitai.com/models/1468386"
+  },
+  "Downloads\\DaBlurrycrowd_epoch_3\\DaBlurrycrowd_epoch_3.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "30037740c108513e05962f0d74c57445ecd09021eee4457a88eadd30c49f6342",
+    "trigger_words": "dablrrcrwd-blurry crowd focus, people (foreground),",
+    "download_url": "https://civitai.com/models/2524780"
+  },
+  "Downloads\\DoomerGirl_V3\\DoomerGirl_V3.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "56589a36864028424708a1f348648231a89bef6283dd04167fb6a20dfa045a90",
+    "trigger_words": "doomer girl, short hair, black hair, black eyes, large breasts, black choker, makeup",
+    "download_url": "https://civitai.com/models/2200544"
+  },
+  "Downloads\\GrainPointStyle_ill_v5_style\\GrainPointStyle_ill_v5_style.safetensors": {
+    "base_model": ""
+  },
+  "Downloads\\HJCTEC9KV0AJRDX6NJQ2WAG0S0\\HJCTEC9KV0AJRDX6NJQ2WAG0S0.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "be452245a9c77aedb9370bf122af25c17fe8a4513ebceade46918ca29677c795",
+    "trigger_words": "F4ngy1, long hair, black hair, multicolored hair, very long hair, pointy ears, elbow gloves, horns, tail,",
+    "download_url": "https://civitai.com/models/2632586"
+  },
+  "Downloads\\Kit-GameoverseV2\\Kit-GameoverseV2.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "30cf5fc966df5b0a3b3664f4fcbbda303683e06bb41cae20039b0fc05a26d976",
+    "trigger_words": "KitCowboy, KitMain, KitMS, KitMartialArts, KitBikini, KitExplorer",
+    "download_url": "https://civitai.com/models/2628447"
+  },
+  "Downloads\\MastCom0_v3\\MastCom0_v3.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "fd923483ce7a5bd1d2b5b2954a8c6bfda5b02c45bd3eab58dbf82881c5a3e2be",
+    "trigger_words": "MastCom0",
+    "download_url": "https://civitai.com/models/1555803"
+  },
+  "Downloads\\RLDKiYaBac_(Demon_Slayer)_(Red_Light_District_Kimetsu_no_Yaiba)_(Background)_(NoobAI)_(AD)\\RLDKiYaBac_(Demon_Slayer)_(Red_Light_District_Kimetsu_no_Yaiba)_(Background)_(NoobAI)_(AD).safetensors": {
+    "base_model": "NoobAI",
+    "hash": "8df8f93aa5228fd60f99a8e99cc82918f49d85881b03cc5ca37ad6502c04a330",
+    "trigger_words": "RLDKiYaBac, background, exterior, buildings",
+    "download_url": "https://civitai.com/models/2628808"
+  },
+  "Downloads\\Ruinya-chan\\Ruinya-chan.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "fac23bab2c2c68e530790571dc382d82b221c15666feb818b4ee8cd239729f63",
+    "trigger_words": "Ruinya-chan, robot, android, joints, robot joints, black hair, long hair, twintails, hair between eyes, bangs, yellow scrunchie, hair scrunchie, black sclera, red eyes",
+    "download_url": "https://civitai.com/models/2035741"
+  },
+  "Downloads\\ShatteredGemIllustrious\\ShatteredGemIllustrious.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "e0bb14be1d8436fee9e29634e22a99adcc2976363fae67182bdbf546e158c1f2",
+    "trigger_words": "Lustrous, shiny hair, glistening eyes, shards, amputated arm, one arm, severed arm, amputated arms, armless amputee, amputated legs, severed legs, legless amputee, amputated leg, severed leg, one leg, colored eyelashes, crystal hair, cracked skin, shiny shadow, cracked face, gem uniform, 1other, quadruple amputee",
+    "download_url": "https://civitai.com/models/1047864"
+  },
+  "Downloads\\Sophyucha_Style_for_Illustrious\\Sophyucha_Style_for_Illustrious.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "634ce6c0f032e7da3abafadf72d558a4aff32a3df62e39e7b6caf434359b9e42",
+    "trigger_words": "Sophyuchaart",
+    "download_url": "https://civitai.com/models/2627566"
+  },
+  "Downloads\\Stellarholic_Realism_V2\\Stellarholic_Realism_V2.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "cf21cbc5956811b6122886e8ec63bd8dd4805a5c810d4258b744aadd4d995354",
+    "trigger_words": "3d, realistic, masterpiece, best quality, high quality, high res",
+    "download_url": "https://civitai.com/models/2317577"
+  },
+  "Downloads\\YogisyaIllustrious\\YogisyaIllustrious.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "79d83aff8c3b6b54287042ca5e8e9fd690384829b4bc39d8829f99ba55a79915",
+    "trigger_words": "Yogisya",
+    "download_url": "https://civitai.com/models/2325312"
+  },
+  "Downloads\\Youji_Shinkawa_style_v3\\Youji_Shinkawa_style_v3.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "7f755e2f834e4761ded6302a0fcfab37a4f640402a40ea05e58ddf65256ee996",
+    "trigger_words": "yojishinkawa",
+    "download_url": "https://civitai.com/models/1615252"
+  },
+  "Downloads\\ava_orcmassage_Ver2.5_i\\ava_orcmassage_Ver2.5_i.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "52f1db0d3dbf5e6c24d0bfd42b310a94e13e32c619405404981d41c3ed7ad296",
+    "trigger_words": "ava_orcmassage,, black hair, multicolored hair, harpy, black sleeveless shirt, bike shorts, white jacket",
+    "download_url": "https://civitai.com/models/607339"
+  },
+  "Downloads\\chainshibariILL\\chainshibariILL.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "94e64849bf3a7896ba92f50ccc02b8c2360af1cd15360d6b29eb84fc44d99256",
+    "trigger_words": "chain shibari",
+    "download_url": "https://civitai.com/models/1930784"
+  },
+  "Downloads\\femalemannequinV2\\femalemannequinV2.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "7c805e07e086d4dd0c5ecedd3eef9c8c18aa29cf7dcfcaf491802ade3be8c950",
+    "trigger_words": "femalemannequin, female, white body, bald, no face, no eyes, no nose, no mouth, male, white body, muscular, bald, no face, no eyes, no nose, no mouth",
+    "download_url": "https://civitai.com/models/2631230"
+  },
+  "Downloads\\jadetilaurant v1 EP10\\jadetilaurant v1 EP10.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "30db9a0d89dc28dbc6d936d21c0494962be6f73da871ce4c612445e13d221794",
+    "trigger_words": "jadetilaurant",
+    "download_url": "https://civitai.com/models/2197054"
+  },
+  "Downloads\\noobai_vpred_1_style_painterly_v1.1\\noobai_vpred_1_style_painterly_v1.1.safetensors": {
+    "base_model": "NoobAI",
+    "hash": "4eb5f3c81bc9d2e5b6bf802d7aa66c830a6fe2a07f7241c8c89e74c69c45a896",
+    "trigger_words": "painterly, brushstroke, impasto, oil painting \\(medium\\), impressionism, chiaroscuro",
+    "download_url": "https://civitai.com/models/1478417"
+  },
+  "Downloads\\1_wai17\\1_wai17.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "69e0bf21e02b50545e4aa677ff798846df4574b2258cb873ed79bdd7ee6db234",
+    "download_url": "https://civitai.com/models/2622264"
+  },
+  "Downloads\\K48JXYB8WHZ2NRWQ4JADJ9Y3M0\\K48JXYB8WHZ2NRWQ4JADJ9Y3M0.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "3ad21f0307274f653a51cc1649a6277f3054f13a4403b8712b76c4137200143b",
+    "trigger_words": "Shm0xy",
+    "download_url": "https://civitai.com/models/2622207"
+  },
+  "Downloads\\MoriiMee_Gothic_Realistic\\MoriiMee_Gothic_Realistic.safetensors": {
+    "base_model": "Illustrious",
+    "hash": "cd08b65d418757166dda7d840efd55cfe124929ca7f63b9760e9c8c82eefbe3d",
+    "download_url": "https://civitai.com/models/915918"
+  },
+  "Downloads\\USNR_STYLE_NB_Vpred_V3-000019\\USNR_STYLE_NB_Vpred_V3-000019.safetensors": {
+    "base_model": "NoobAI",
+    "hash": "5cbcc1df13739057347b5e35844c35c0a0981d8366ec1be6c0f8a4592402a22c",
+    "trigger_words": "usnr",
+    "download_url": "https://civitai.com/models/176554"
+  }
+}

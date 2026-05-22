@@ -1,0 +1,7 @@
+[
+  {
+    "name": "anima_universal_quality",
+    "positive": "high quality, best quality, very aesthetic, newest, score_7, score_6, safe",
+    "negative_prompt": "worst quality, low quality, score_1, score_2, score_3, bad anatomy, bad hands, artistic error, artifact, ugly, nsfw"
+  }
+]
